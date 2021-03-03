@@ -446,39 +446,39 @@
     <!--Esperanto Characters -->
     <keyboardAction>
         <keyboardActionType>INPUT_TEXT</keyboardActionType>
-        <movementSequence>INSIDE_CIRCLE;LEFT;TOP;RIGHT;TOP;RIGHT;INSIDE_CIRCLE;</movementSequence>
-        <inputString>ĉ</inputString>
-        <inputCapsLockString>Ĉ</inputCapsLockString>
+        <movementSequence>INSIDE_CIRCLE;RIGHT;TOP;LEFT;TOP;LEFT;INSIDE_CIRCLE;</movementSequence>
+        <inputString>ä</inputString>
+        <inputCapsLockString>Ä</inputCapsLockString>
     </keyboardAction>
     <keyboardAction>
         <keyboardActionType>INPUT_TEXT</keyboardActionType>
-        <movementSequence>INSIDE_CIRCLE;TOP;LEFT;BOTTOM;RIGHT;BOTTOM;RIGHT;INSIDE_CIRCLE;</movementSequence>
-        <inputString>ĝ</inputString>
-        <inputCapsLockString>Ĝ</inputCapsLockString>
-    </keyboardAction>
-    <keyboardAction>
-        <keyboardActionType>INPUT_TEXT</keyboardActionType>
-        <movementSequence>INSIDE_CIRCLE;LEFT;BOTTOM;RIGHT;BOTTOM;RIGHT;INSIDE_CIRCLE;</movementSequence>
-        <inputString>ĥ</inputString>
-        <inputCapsLockString>Ĥ</inputCapsLockString>
-    </keyboardAction>
-    <keyboardAction>
-        <keyboardActionType>INPUT_TEXT</keyboardActionType>
-        <movementSequence>INSIDE_CIRCLE;LEFT;BOTTOM;RIGHT;TOP;RIGHT;TOP;INSIDE_CIRCLE;</movementSequence>
-        <inputString>ĵ</inputString>
-        <inputCapsLockString>Ĵ</inputCapsLockString>
-    </keyboardAction>
-    <keyboardAction>
-        <keyboardActionType>INPUT_TEXT</keyboardActionType>
-        <movementSequence>INSIDE_CIRCLE;TOP;LEFT;TOP;LEFT;INSIDE_CIRCLE;</movementSequence>
-        <inputString>ŝ</inputString>
-        <inputCapsLockString>Ŝ</inputCapsLockString>
+        <movementSequence>INSIDE_CIRCLE;BOTTOM;RIGHT;TOP;LEFT;TOP;LEFT;INSIDE_CIRCLE;</movementSequence>
+        <inputString>ü</inputString>
+        <inputCapsLockString>Ü</inputCapsLockString>
     </keyboardAction>
     <keyboardAction>
         <keyboardActionType>INPUT_TEXT</keyboardActionType>
         <movementSequence>INSIDE_CIRCLE;BOTTOM;RIGHT;TOP;RIGHT;TOP;INSIDE_CIRCLE;</movementSequence>
-        <inputString>ŭ</inputString>
-        <inputCapsLockString>Ŭ</inputCapsLockString>
+        <inputString>ö</inputString>
+        <inputCapsLockString>Ö</inputCapsLockString>
+    </keyboardAction>
+    <keyboardAction>
+        <keyboardActionType>INPUT_TEXT</keyboardActionType>
+        <movementSequence>INSIDE_CIRCLE;RIGHT;TOP;RIGHT;TOP;INSIDE_CIRCLE;</movementSequence>
+        <inputString>å</inputString>
+        <inputCapsLockString>Å</inputCapsLockString>
+    </keyboardAction>
+    <keyboardAction>
+        <keyboardActionType>INPUT_TEXT</keyboardActionType>
+        <movementSequence>INSIDE_CIRCLE;RIGHT;TOP;RIGHT;BOTTOM;LEFT;INSIDE_CIRCLE;</movementSequence>
+        <inputString>æ</inputString>
+        <inputCapsLockString>Æ</inputCapsLockString>
+    </keyboardAction>
+    <keyboardAction>
+        <keyboardActionType>INPUT_TEXT</keyboardActionType>
+        <movementSequence>INSIDE_CIRCLE;BOTTOM;RIGHT;BOTTOM;RIGHT;INSIDE_CIRCLE;</movementSequence>
+        <inputString>ø</inputString>
+        <inputCapsLockString>Ø</inputCapsLockString>
     </keyboardAction>
 
 </keyboardActionMap>
