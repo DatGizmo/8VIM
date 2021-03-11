@@ -15,7 +15,7 @@
     <!--Space-->
     <keyboardAction>
         <keyboardActionType>INPUT_KEY</keyboardActionType>
-        <movementSequence>INSIDE_CIRCLE;NO_TOUCH;</movementSequence>
+        <movementSequence>NO_TOUCH;INSIDE_CIRCLE;NO_TOUCH;</movementSequence>
         <inputKey>KEYCODE_SPACE</inputKey>
     </keyboardAction>
 

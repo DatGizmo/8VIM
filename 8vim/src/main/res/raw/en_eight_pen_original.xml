@@ -442,7 +442,6 @@
         <inputCapsLockString>_</inputCapsLockString>
     </keyboardAction>
 
-
     <!--Esperanto Characters -->
     <keyboardAction>
         <keyboardActionType>INPUT_TEXT</keyboardActionType>
