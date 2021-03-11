@@ -5,10 +5,10 @@
     <color name="black">#222222</color>
     <color name="purple">#8186d5</color>
 
-    <color name="primaryBackground">#E1D7DD</color>
-    <color name="secondaryBackground">#CDC1CA</color>
-    <color name="primaryText">#3F334D</color>
-    <color name="primaryIcon">#D1462F</color>
+    <color name="primaryBackground">#202020</color>
+    <color name="secondaryBackground">#121212</color>
+    <color name="primaryText">#AAAAAA</color>
+    <color name="primaryIcon">#03DAC6</color>
 
     <color name="switchColor">#00c853</color>
 </resources>
