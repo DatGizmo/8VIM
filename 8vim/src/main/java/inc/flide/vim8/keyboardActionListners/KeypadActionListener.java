@@ -55,8 +55,7 @@ public class KeypadActionListener {
                         mainInputMethodService.getString(R.string.user_preferred_haptic_feedback_enabled),
                         true);
         if (user_enabled_haptic_feedback) {
-            view.performHapticFeedback(HapticFeedbackConstants.KEYBOARD_TAP,
-                    HapticFeedbackConstants.FLAG_IGNORE_GLOBAL_SETTING);
+            view.performHapticFeedback(HapticFeedbackConstants.KEYBOARD_TAP);
         }
     }
 
