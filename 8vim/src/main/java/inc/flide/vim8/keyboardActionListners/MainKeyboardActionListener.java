@@ -127,7 +127,7 @@ public class MainKeyboardActionListener {
                 isMovementValid = false;
         }
         if (isMovementValid) {
-            mainKeyboardView.performHapticFeedback(HapticFeedbackConstants.KEYBOARD_TAP, HapticFeedbackConstants.FLAG_IGNORE_GLOBAL_SETTING);
+            mainKeyboardView.performHapticFeedback(HapticFeedbackConstants.KEYBOARD_TAP);
         }
     }
 
